@@ -16,9 +16,9 @@ C, Epoll
 
 
 
-## 시연 영상
+## 동작 사진
 
-<video src="result.mp4"></video>
+![1](img/1.png)
 
 
 
