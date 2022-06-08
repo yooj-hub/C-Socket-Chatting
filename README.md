@@ -18,7 +18,7 @@ C, Epoll
 
 ## 시연 영상
 
-<video src=".\result.mp4"></video>
+<video src="./result.mp4"></video>
 
 
 
